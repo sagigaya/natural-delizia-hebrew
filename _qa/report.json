@@ -1,0 +1,1591 @@
+{
+  "pages": {
+    "catalog": {
+      "url": "https://natural-delizia.vercel.app/catalog.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [
+        "mfn_hook_top",
+        "mfn_hook_content_before",
+        "mfn_hook_content_after",
+        "mfn_hook_bottom"
+      ],
+      "font_issues": [],
+      "page_errors": [
+        "b"
+      ]
+    },
+    "category-artichokes": {
+      "url": "https://natural-delizia.vercel.app/category-artichokes.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "category-mushrooms": {
+      "url": "https://natural-delizia.vercel.app/category-mushrooms.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "category-olives": {
+      "url": "https://natural-delizia.vercel.app/category-olives.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "category-pickles": {
+      "url": "https://natural-delizia.vercel.app/category-pickles.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "category-speciality": {
+      "url": "https://natural-delizia.vercel.app/category-speciality.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [
+        "Friarielli Alla Napoletana"
+      ],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "category-vegetables": {
+      "url": "https://natural-delizia.vercel.app/category-vegetables.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "company": {
+      "url": "https://natural-delizia.vercel.app/company.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [
+        "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"844\" src=\"/images/naturalmente_1_b54c57fc.jpg\" title=",
+        "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"844\" src=\"/images/naturalmente_2_783e9a4c.jpg\" title=",
+        "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"844\" src=\"/images/naturalmente_3_0b257c00.jpg\" title="
+      ],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "contacts": {
+      "url": "https://natural-delizia.vercel.app/contacts.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [
+        "Oops! Something went wrong.",
+        "This page didn't load Google Maps correctly. See the JavaScript console for technical details."
+      ],
+      "font_issues": [
+        {
+          "sample": "* בשימוש בטופס זה הנך מסכים לשמירה ולשימוש בנתונים שלך באתר ",
+          "font": "Heebo, Assistant, -apple-system, \"Segoe UI\", Arial, sans-serif",
+          "dir": "ltr",
+          "tag": "SPAN",
+          "note": "non-rtl"
+        }
+      ],
+      "page_errors": []
+    },
+    "index": {
+      "url": "https://natural-delizia.vercel.app/",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [
+        "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"1667\" src=\"/images/slide-funghi_de9462d2.jpg\" title=\"",
+        "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"1667\" src=\"/images/slide-olive_fe674649.jpg\" title=\"s",
+        "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"1667\" src=\"/images/slide-verdure_b56c3b0d.jpg\" title=",
+        "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"1667\" src=\"/images/slide-sottaceti_910a978c.jpg\" titl",
+        "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"1667\" src=\"/images/slide-specialita_e0dbaf08.jpg\" tit"
+      ],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-artichoke-leaves": {
+      "url": "https://natural-delizia.vercel.app/product-artichoke-leaves.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-artichoke-petals": {
+      "url": "https://natural-delizia.vercel.app/product-artichoke-petals.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-balsamic-borettane-pearl-onions": {
+      "url": "https://natural-delizia.vercel.app/product-balsamic-borettane-pearl-onions.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [
+        "Friarielli Alla Napoletana"
+      ],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-bella-di-cerignola-green-olives": {
+      "url": "https://natural-delizia.vercel.app/product-bella-di-cerignola-green-olives.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-bella-di-cerignola-olives": {
+      "url": "https://natural-delizia.vercel.app/product-bella-di-cerignola-olives.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-black-olive-rings": {
+      "url": "https://natural-delizia.vercel.app/product-black-olive-rings.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-button-mushrooms": {
+      "url": "https://natural-delizia.vercel.app/product-button-mushrooms.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-caperberries": {
+      "url": "https://natural-delizia.vercel.app/product-caperberries.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-capers-in-salt": {
+      "url": "https://natural-delizia.vercel.app/product-capers-in-salt.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [
+        "Friarielli Alla Napoletana"
+      ],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-capers": {
+      "url": "https://natural-delizia.vercel.app/product-capers.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-catalog": {
+      "url": "https://natural-delizia.vercel.app/product-catalog.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-country-style-artichokes-2": {
+      "url": "https://natural-delizia.vercel.app/product-country-style-artichokes-2.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [
+        {
+          "src": "https://natural-delizia.vercel.app/images/carciofi-a-spicchi-latta-300x450_56f40787.jpg",
+          "alt": "",
+          "w": 0,
+          "h": 0
+        },
+        {
+          "src": "https://natural-delizia.vercel.app/images/Carciofi-spicchi-romana-300x450_680771df.jpg",
+          "alt": "",
+          "w": 0,
+          "h": 0
+        }
+      ],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-country-style-artichokes": {
+      "url": "https://natural-delizia.vercel.app/product-country-style-artichokes.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-country-style-mushrooms": {
+      "url": "https://natural-delizia.vercel.app/product-country-style-mushrooms.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-country-style-straw-mushrooms": {
+      "url": "https://natural-delizia.vercel.app/product-country-style-straw-mushrooms.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-country-style-sundried-tomatoes": {
+      "url": "https://natural-delizia.vercel.app/product-country-style-sundried-tomatoes.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-crushed-seasoned-olives": {
+      "url": "https://natural-delizia.vercel.app/product-crushed-seasoned-olives.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-cutted-mushrooms": {
+      "url": "https://natural-delizia.vercel.app/product-cutted-mushrooms.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-friarielli-alla-napoletana": {
+      "url": "https://natural-delizia.vercel.app/product-friarielli-alla-napoletana.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [
+        "Friarielli Alla Napoletana"
+      ],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-gherkins": {
+      "url": "https://natural-delizia.vercel.app/product-gherkins.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-giant-green-olives": {
+      "url": "https://natural-delizia.vercel.app/product-giant-green-olives.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-giardiniera-mix": {
+      "url": "https://natural-delizia.vercel.app/product-giardiniera-mix.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-green-aperitif-olives": {
+      "url": "https://natural-delizia.vercel.app/product-green-aperitif-olives.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-green-olive-rings": {
+      "url": "https://natural-delizia.vercel.app/product-green-olive-rings.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-grilled-artichokes": {
+      "url": "https://natural-delizia.vercel.app/product-grilled-artichokes.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-grilled-aubergines": {
+      "url": "https://natural-delizia.vercel.app/product-grilled-aubergines.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-grilled-courgettes": {
+      "url": "https://natural-delizia.vercel.app/product-grilled-courgettes.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-grilled-onions": {
+      "url": "https://natural-delizia.vercel.app/product-grilled-onions.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-grilled-peppers": {
+      "url": "https://natural-delizia.vercel.app/product-grilled-peppers.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-gypsy-style-peppers-alla-zingara-confezione-packaging-vaso": {
+      "url": "https://natural-delizia.vercel.app/product-gypsy-style-peppers-alla-zingara-confezione-packaging-vaso.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-long-stem-artichokes-alla-romana-2": {
+      "url": "https://natural-delizia.vercel.app/product-long-stem-artichokes-alla-romana-2.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-long-stem-artichokes-alla-romana": {
+      "url": "https://natural-delizia.vercel.app/product-long-stem-artichokes-alla-romana.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [
+        {
+          "src": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_150,h_150/https://www.naturalmentedelizia.it/web/wp-content/uploads/2020/11/carcigambo-alla-romana.jpg-150x150.jpg",
+          "alt": "ארטישוקים ארוכי-גבעול Alla Romana",
+          "w": 0,
+          "h": 0
+        }
+      ],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-mixed-mushrooms": {
+      "url": "https://natural-delizia.vercel.app/product-mixed-mushrooms.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-natural-artichoke-leaves": {
+      "url": "https://natural-delizia.vercel.app/product-natural-artichoke-leaves.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-natural-cutted-mushrooms": {
+      "url": "https://natural-delizia.vercel.app/product-natural-cutted-mushrooms.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-natural-quartered-artichokes": {
+      "url": "https://natural-delizia.vercel.app/product-natural-quartered-artichokes.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-natural-salad-mix": {
+      "url": "https://natural-delizia.vercel.app/product-natural-salad-mix.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-nostrane-olives-locally-sources": {
+      "url": "https://natural-delizia.vercel.app/product-nostrane-olives-locally-sources.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-onions": {
+      "url": "https://natural-delizia.vercel.app/product-onions.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-pitted-black-olives": {
+      "url": "https://natural-delizia.vercel.app/product-pitted-black-olives.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-pitted-green-olives": {
+      "url": "https://natural-delizia.vercel.app/product-pitted-green-olives.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-quartered-artichokes-2": {
+      "url": "https://natural-delizia.vercel.app/product-quartered-artichokes-2.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-quartered-artichokes-alla-romana": {
+      "url": "https://natural-delizia.vercel.app/product-quartered-artichokes-alla-romana.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-quartered-artichokes": {
+      "url": "https://natural-delizia.vercel.app/product-quartered-artichokes.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-rome-style-quartered-artichokes": {
+      "url": "https://natural-delizia.vercel.app/product-rome-style-quartered-artichokes.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-salad-mix-in-vinegar": {
+      "url": "https://natural-delizia.vercel.app/product-salad-mix-in-vinegar.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-salad": {
+      "url": "https://natural-delizia.vercel.app/product-salad.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-seasoned-riviera-olives": {
+      "url": "https://natural-delizia.vercel.app/product-seasoned-riviera-olives.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [
+        "Friarielli Alla Napoletana"
+      ],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-seasoned-stripes-aubergine": {
+      "url": "https://natural-delizia.vercel.app/product-seasoned-stripes-aubergine.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-semi-dried-tomatoes": {
+      "url": "https://natural-delizia.vercel.app/product-semi-dried-tomatoes.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-sliced-artichokes": {
+      "url": "https://natural-delizia.vercel.app/product-sliced-artichokes.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-spicy-country-style-cutted-mushrooms": {
+      "url": "https://natural-delizia.vercel.app/product-spicy-country-style-cutted-mushrooms.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-spicy-pepper-small-rings": {
+      "url": "https://natural-delizia.vercel.app/product-spicy-pepper-small-rings.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-spicy-peppers": {
+      "url": "https://natural-delizia.vercel.app/product-spicy-peppers.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-spicy-shredded-aubergine": {
+      "url": "https://natural-delizia.vercel.app/product-spicy-shredded-aubergine.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-split-artichokes": {
+      "url": "https://natural-delizia.vercel.app/product-split-artichokes.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-split-preserved-artichokes": {
+      "url": "https://natural-delizia.vercel.app/product-split-preserved-artichokes.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-starter-mix": {
+      "url": "https://natural-delizia.vercel.app/product-starter-mix.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-straw-mushrooms": {
+      "url": "https://natural-delizia.vercel.app/product-straw-mushrooms.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-stuffed-olives": {
+      "url": "https://natural-delizia.vercel.app/product-stuffed-olives.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-sweet-sour-borettane-pearl-onions": {
+      "url": "https://natural-delizia.vercel.app/product-sweet-sour-borettane-pearl-onions.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-tassel-hyacinth-bulbs-apulian-speciality": {
+      "url": "https://natural-delizia.vercel.app/product-tassel-hyacinth-bulbs-apulian-speciality.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-toasted-sandwich-mix": {
+      "url": "https://natural-delizia.vercel.app/product-toasted-sandwich-mix.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-tuna-stuffed-peppers": {
+      "url": "https://natural-delizia.vercel.app/product-tuna-stuffed-peppers.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-whole-artichokes-2": {
+      "url": "https://natural-delizia.vercel.app/product-whole-artichokes-2.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-whole-artichokes": {
+      "url": "https://natural-delizia.vercel.app/product-whole-artichokes.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-whole-black-olives": {
+      "url": "https://natural-delizia.vercel.app/product-whole-black-olives.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "product-woodland-mushrooms": {
+      "url": "https://natural-delizia.vercel.app/product-woodland-mushrooms.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "products": {
+      "url": "https://natural-delizia.vercel.app/products.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [
+        "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"1667\" src=\"/images/slide-funghi_de9462d2.jpg\" title=\"",
+        "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"1667\" src=\"/images/slide-olive_fe674649.jpg\" title=\"s",
+        "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"1667\" src=\"/images/slide-verdure_b56c3b0d.jpg\" title=",
+        "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"1667\" src=\"/images/slide-sottaceti_910a978c.jpg\" titl",
+        "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"1667\" src=\"/images/slide-specialita_e0dbaf08.jpg\" tit"
+      ],
+      "font_issues": [],
+      "page_errors": []
+    },
+    "request-quote": {
+      "url": "https://natural-delizia.vercel.app/request-quote.html",
+      "status": 200,
+      "broken_links": [
+        {
+          "url": "https://natural-delizia.vercel.app/privacy-policy/",
+          "status": 404
+        },
+        {
+          "url": "https://natural-delizia.vercel.app/cookie-policy/",
+          "status": 404
+        }
+      ],
+      "broken_images": [],
+      "english": [],
+      "font_issues": [
+        {
+          "sample": "* בשימוש בטופס זה הנך מסכים לשמירה ולשימוש בנתונים שלך באתר ",
+          "font": "Heebo, Assistant, -apple-system, \"Segoe UI\", Arial, sans-serif",
+          "dir": "ltr",
+          "tag": "SPAN",
+          "note": "non-rtl"
+        }
+      ],
+      "page_errors": []
+    }
+  },
+  "broken_links_global": {
+    "https://natural-delizia.vercel.app/privacy-policy/": 404,
+    "https://natural-delizia.vercel.app/cookie-policy/": 404
+  },
+  "broken_images_global": {
+    "https://natural-delizia.vercel.app/images/carciofi-a-spicchi-latta-300x450_56f40787.jpg": "nw=0",
+    "https://natural-delizia.vercel.app/images/Carciofi-spicchi-romana-300x450_680771df.jpg": "nw=0",
+    "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_150,h_150/https://www.naturalmentedelizia.it/web/wp-content/uploads/2020/11/carcigambo-alla-romana.jpg-150x150.jpg": "nw=0"
+  },
+  "english_leftovers": {
+    "catalog": [
+      "mfn_hook_top",
+      "mfn_hook_content_before",
+      "mfn_hook_content_after",
+      "mfn_hook_bottom"
+    ],
+    "category-speciality": [
+      "Friarielli Alla Napoletana"
+    ],
+    "company": [
+      "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"844\" src=\"/images/naturalmente_1_b54c57fc.jpg\" title=",
+      "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"844\" src=\"/images/naturalmente_2_783e9a4c.jpg\" title=",
+      "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"844\" src=\"/images/naturalmente_3_0b257c00.jpg\" title="
+    ],
+    "contacts": [
+      "Oops! Something went wrong.",
+      "This page didn't load Google Maps correctly. See the JavaScript console for technical details."
+    ],
+    "index": [
+      "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"1667\" src=\"/images/slide-funghi_de9462d2.jpg\" title=\"",
+      "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"1667\" src=\"/images/slide-olive_fe674649.jpg\" title=\"s",
+      "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"1667\" src=\"/images/slide-verdure_b56c3b0d.jpg\" title=",
+      "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"1667\" src=\"/images/slide-sottaceti_910a978c.jpg\" titl",
+      "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"1667\" src=\"/images/slide-specialita_e0dbaf08.jpg\" tit"
+    ],
+    "product-balsamic-borettane-pearl-onions": [
+      "Friarielli Alla Napoletana"
+    ],
+    "product-capers-in-salt": [
+      "Friarielli Alla Napoletana"
+    ],
+    "product-friarielli-alla-napoletana": [
+      "Friarielli Alla Napoletana"
+    ],
+    "product-seasoned-riviera-olives": [
+      "Friarielli Alla Napoletana"
+    ],
+    "products": [
+      "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"1667\" src=\"/images/slide-funghi_de9462d2.jpg\" title=\"",
+      "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"1667\" src=\"/images/slide-olive_fe674649.jpg\" title=\"s",
+      "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"1667\" src=\"/images/slide-verdure_b56c3b0d.jpg\" title=",
+      "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"1667\" src=\"/images/slide-sottaceti_910a978c.jpg\" titl",
+      "Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img class=\"rev-slidebg\" data-no-retina=\"\" height=\"1667\" src=\"/images/slide-specialita_e0dbaf08.jpg\" tit"
+    ]
+  },
+  "font_issues": {
+    "contacts": [
+      {
+        "sample": "* בשימוש בטופס זה הנך מסכים לשמירה ולשימוש בנתונים שלך באתר ",
+        "font": "Heebo, Assistant, -apple-system, \"Segoe UI\", Arial, sans-serif",
+        "dir": "ltr",
+        "tag": "SPAN",
+        "note": "non-rtl"
+      }
+    ],
+    "request-quote": [
+      {
+        "sample": "* בשימוש בטופס זה הנך מסכים לשמירה ולשימוש בנתונים שלך באתר ",
+        "font": "Heebo, Assistant, -apple-system, \"Segoe UI\", Arial, sans-serif",
+        "dir": "ltr",
+        "tag": "SPAN",
+        "note": "non-rtl"
+      }
+    ]
+  }
+}
