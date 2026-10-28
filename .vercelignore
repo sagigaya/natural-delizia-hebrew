@@ -1,0 +1,9 @@
+_raw_html
+_text_to_translate.txt
+_phrases.json
+_translations.json
+_asset_manifest.json
+*.py
+*.log
+.vercel
+.git
